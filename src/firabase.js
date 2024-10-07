@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth"; // Firebase Authentication modülünü 
 
 // Firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyDrRTQpET6zUCGVptThlvGQtKcIEYs56Vw",
+  apiKey: "",
   authDomain: "voteapp-firebase-auth.firebaseapp.com",
   projectId: "voteapp-firebase-auth",
   storageBucket: "voteapp-firebase-auth.appspot.com",
   messagingSenderId: "901374694084",
-  appId: "1:901374694084:web:9d391adc9abc95b143ef91",
+  appId: "",
 };
 
 // Initialize Firebase
